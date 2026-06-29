@@ -5,7 +5,7 @@
 
 let rawData = [
     "Arrival, mystery, 8, joyfulsmile@gmail.com",
-    "Kinves Out, crime, 7, springforward@aol.com",
+    "Knives Out, crime, 7, springforward@aol.com",
     "The Dark Knight, thriller, 9, bekind345@yahoo.com",
     "War of the Worlds, sci-fi, 2", //Bad string with no email
     "The Ice Age Adventures of BucK Wild, animation, 4, crazychild569@ymail.com"
